@@ -44,7 +44,7 @@ body{
 
 #wrapper{
   margin:0 auto;
-  width:600px;
+  padding: 60px;
 }
 .wide #wrapper{
   width:1000px;
