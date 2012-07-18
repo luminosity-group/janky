@@ -44,7 +44,7 @@ body{
 
 #wrapper{
   margin:0 auto;
-  width:600px;
+  padding: 60px;
 }
 .wide #wrapper{
   width:1000px;
@@ -160,10 +160,10 @@ ul.builds h2 span{
   color: #666666;
 }
 ul.builds .good a{
-  color:#358c00;
+  color:#00dc00;
 }
 ul.builds .good h2{
-  color:#358c00;
+  color:#00dc00;
 }
 ul.builds .building a{
   color:#e59741;
